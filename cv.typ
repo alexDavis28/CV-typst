@@ -26,28 +26,28 @@
 )
 
 #header(
-  full-name: [Faye Valentine],
-  job-title: [Bounty Hunter],
+  full-name: [Alex Davis],
+  job-title: [Software Engineer],
   socials: (
     (
       icon: icons.github,
-      text: [username],
-      link: "https://github.com/xxx"
+      text: [alexdavis28],
+      link: "https://github.com/alexdavis28"
     ),
     (
       icon: icons.mail,
-      text: [username\@gmail.com],
-      link: "mailto://username@gmail.com"
+      text: [8m3xlt\@gmail.com],
+      link: "mailto://8m3xlt@gmail.com"
     ),
     (
       icon: icons.linkedin,
-      text: [Faye Valentine],
-      link: "https://linkedin.com/in/npujolm/"
+      text: [Alex Davis],
+      link: "https://www.linkedin.com/in/alexander-mark-davis/"
     ),
     (
       icon: icons.homepage,
-      text: [Earth],
-      link: "#"
+      text: [Website],
+      link: "https://alexdavis.tardis.ac/"
     ),
   ),
   profile-picture: image("media/avatar.jpg")
