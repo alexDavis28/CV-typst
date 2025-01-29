@@ -57,19 +57,18 @@
 
 #section("Experience")
 #entry(
-  title: "Bounty Hunter",  
-  company-or-university: "Bebop", 
-  date: "2068 - Today", 
-  location: "Earth", 
-  logo: image("media/experience.png"),
+  title: "Tech Scholar",  
+  company-or-university: "Cambridge Consultants", 
+  date: "September 2023 - July 2024 (11 months)", 
+  location: "Cambridge, England, United Kingdom", 
   description: list(
-    [lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua.],   
-    [ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.],
-    [Excepteur sint occaecat cupidatat non proident, sunt in culpaia deserunt mollit anim id est laborum.],
-    [Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.],
-    [lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua.],   
-    [lorem ipsum dolor sit amet, consectetur adipiscing elit, ut labore et dolore magna aliqua.], 
-    [Excepteur sint occaecat cupidatat non proident, sunt in culpaia deserunt mollit anim id est laborum.],
+    [I worked during my gap year as a Tech Scholar in the Software group
+on a variety of projects.],   
+    [These included VR simulation, closed-loop
+environmental control/monitoring, systems administration and web apps.],
+    [I also developed a variety of soft skills, including teamwork, document writing and presentation skills.],
+    [I participated in the internal Tech Scholar Project competition, for which my team won "Best Presentation".],
+    [ Additionally, I volunteered for CC at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.],   
   ),
 )
 #entry(
