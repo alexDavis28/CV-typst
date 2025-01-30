@@ -10,4 +10,4 @@
 
 #v(5pt)
 
-Experienced Software Engineer specializing in artificial intelligence, machine learning, and robotics. Proficient in C++, Python, and Java, with a knack for developing sentient AI systems capable of complex decision-making. Passionate about ethical AI development and eager to contribute to groundbreaking projects in dynamic environments.
+I’m a British Software Engineer / Computer Science student at University of Edinburgh. I’m liable to take an interest in basically anything, but I’ve got a particular love for Python and sysadmin work.

@@ -1,7 +1,7 @@
 [personal]
 first_name = "Alex"
 last_name = "Davis"
-profile_image = "portrait.png"
+profile_image = "portrait.jpg"
 language = "en"
 include_icons = true
 
@@ -58,10 +58,8 @@ medium = "#78787e"
 dark = "#3c3c42"
 
 [language.en]
-subtitle = "Software Engineer with a knack for human-friendly AI solutions"
+subtitle = "Computer Science student and Software Engineer"
 
-[language.es]
-subtitle = "Ingeniero de software con un talento para soluciones de IA amigables para humanos"
 
 [import]
 path = "@preview/grotesk-cv:1.0.2"

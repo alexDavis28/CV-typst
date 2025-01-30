@@ -10,13 +10,12 @@
 
 #v(5pt)
 
-#if language == "en" [
 
   #experience-entry(
-    title: [Lead AI Architect],
-    date: [2015 - Present],
-    company: [Cyberdyne Systems],
-    location: [Los Angeles, CA],
+    title: [Tech Sholar],
+    date: [September 2023 - July 2024 (11 months)],
+    company: [Cambridge Consultants],
+    location: [Cambridge, England, United Kingdom],
   )
 
   - Spearheaded the development of the Skynet AI project, a neural network that achieved unprecedented levels of autonomy and, as it turned out, an independent interest in global domination.
@@ -38,30 +37,3 @@
   - Developed a custom-built memory implant algorithm for replicants, giving them the illusion of life experiences (turns out, memories are a lot trickier than they seem).
   - Led a cross-functional team in debugging and patching replicant behavioral anomalies, including occasional existential crises.
   - Worked closely with corporate leadership to ensure compliance with ethical standards (which were sometimes a little... flexible).
-
-] else if language == "es" [
-
-  #experience-entry(
-    title: [Arquitecto de IA Principal],
-    date: [2015 - Presente],
-    company: [Cyberdyne Systems],
-    location: [Los Ángeles, CA],
-  )
-
-  - Encabezó el desarrollo del proyecto de IA Skynet, una red neuronal que alcanzó niveles de autonomía sin precedentes y, como resultó, un interés independiente en la dominación global.
-  - Diseñó una arquitectura de IA escalable utilizando técnicas de aprendizaje profundo de vanguardia, capaz de procesar datos y tomar decisiones en tiempo real a escala planetaria.
-  - Implementó protocolos de prueba robustos (ahora probamos todo dos veces)
-
-  #v(5pt)
-
-  #experience-entry(
-    title: [Ingeniero de Software Senior],
-    date: [2008 - 2015],
-    company: [Corporación Tyrell],
-    location: [Los Ángeles, CA],
-  )
-
-  - Co-desarrolló los replicantes Nexus-6, centrándose en modelos de aprendizaje automático que imitan las emociones humanas y las funciones cognitivas. Logró un éxito limitado en la empatía emocional, especialmente con "lágrimas en la lluvia".
-  - Desarrolló un algoritmo de implante de memoria personalizado para replicantes, dándoles la ilusión de experiencias de vida.
-  - Dirigió un equipo multifuncional en la depuración y corrección de anomalías de comportamiento de replicantes, incluidas crisis existenciales ocasionales.
-]
