@@ -21,6 +21,10 @@ label = "linkedin.com/in/alexander-mark-davis/"
 link = "https://github.com/alexDavis28"
 label = "github.com/alexDavis28"
 
+[personal.info.homepage]
+link = "https://alexdavis.tardis.ac/"
+label = "alexdavis.tardis.ac"
+
 [personal.icon]
 address = "house"
 telephone = "phone"

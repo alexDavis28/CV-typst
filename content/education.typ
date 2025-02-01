@@ -22,14 +22,14 @@
 - *Optional Modules:* Introduction to Data Science, Cognitive Science
 - *Extracurriculars:* Member of CompSoc, GEAS(Tabletop Games Society), and The Tardis Project
 
-  #v(5pt)
+#v(5pt)
 
-  #education-entry(
-    degree: [A Levels],
-    date: [2021 -2023],
-    institution: [Hills Road Sixth Form College],
-    location: [Cambridge, England, United Kingdom],
-  )
+#education-entry(
+  degree: [A Levels],
+  date: [2021 -2023],
+  institution: [Hills Road Sixth Form College],
+  location: [Cambridge, England, United Kingdom],
+)
 
-  - *Grades:* Computer Science A\*, Maths: A\*, History: A\*
-  - *Extracurriculars*: Helped run the Tabletop Games Society
+- *Grades:* Computer Science A\*, Maths: A\*, History: A\*
+- *Extracurriculars*: Helped run the Tabletop Games Society

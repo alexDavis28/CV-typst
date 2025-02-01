@@ -18,7 +18,7 @@
   )
   - During my time at university I've been volunteering with the Tardis Project, a student-led group that provides computing services and support for students looking to learn and practice sysadmin skills in a production-like environment.
   - This has involved familiarising myself with production environments in order to provide ongoing support.
-  - I have run a workshop on using Docker as part of this.
+  - As part of outreach for the project, I have run a workshop for students on using Docker
 
 
 #v(5pt)
@@ -34,7 +34,7 @@
   - I worked during my gap year as a Tech Scholar in the Software group on a number of projects - getting to work with VR simulation, closed-loop environmental control/monitoring, systems administration and web apps.
   - I also developed a variety of soft skills, including teamwork, document writing and presentation skills.
   - I participated in the internal Tech Scholar Project competition, for which my project team won "Best Presentation".
-  - Additionally, I volunteered for CC at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.
+  - Additionally, I volunteered for Cambridge Consultants at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.
 
 
   #v(5pt)

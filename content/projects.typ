@@ -31,9 +31,17 @@
   description: [Variety of self-hosted web apps, including a recipe database and Foundry VTT.]
 )
 
+
+#v(5pt)
+
+#project-entry(
+  title: [Recipe Recommender],
+  description: [A-Level NEA project to create a website able to recommend recipes from ingredients.]
+)
+
 #v(5pt)
 
 #project-entry(
   title: [Social Media Bots],
-  description: [Several bots for the social medial platform Discord]
+  description: [Several bots for the social medial platform Discord, providing various features for servers.]
 )
