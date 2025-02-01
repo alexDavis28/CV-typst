@@ -20,7 +20,7 @@
 )
 
 - *Optional Modules:* Introduction to Data Science, Cognitive Science
-- *Extracurriculars:* Member of CompSoc, GEAS, and The Tardis Project
+- *Extracurriculars:* Member of CompSoc, GEAS(Tabletop Games Society), and The Tardis Project
 
   #v(5pt)
 

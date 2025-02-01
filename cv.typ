@@ -31,7 +31,7 @@
 #show: cv.with(
   meta,
   photo: photo,
-  use-photo: true,
+  use-photo: false,
   left-pane: import-sections(left-pane),
   right-pane: import-sections(right-pane),
   left-pane-proportion: eval(meta.layout.left_pane_width),

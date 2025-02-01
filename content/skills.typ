@@ -52,7 +52,6 @@
   skills: (
     [ADB],
     [I2C],
-    [Feedback],
   ),
 )
 
