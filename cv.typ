@@ -21,9 +21,11 @@
 
 #let right-pane = (
   "skills",
-  "languages",
-  "other_experience",
-  "references",
+  // "languages",
+  // "other_experience",
+  // "references",
+  "personal",
+  "projects",
 )
 
 #show: cv.with(

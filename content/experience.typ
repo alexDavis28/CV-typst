@@ -10,30 +10,40 @@
 
 #v(5pt)
 
+  #experience-entry(
+    title: [Volunteer Admin],
+    date: [September 2024 - Ongoing],
+    company: [The Tardis Project],
+    location: [Edinburgh, Scotland, United Kingdom],
+  )
+  - During my time at university I've been volunteering with the Tardis Project, a student-led group that provides computing services and support for students looking to learn and practice sysadmin skills in a production-like environment.
+  - This has involved familiarising myself with production environments in order to provide ongoing support.
+  - I have also had the opportunity to run a workshop on using Docker as part of my volunteering
+
+
+#v(5pt)
+
 
   #experience-entry(
-    title: [Tech Sholar],
+    title: [Tech Scholar],
     date: [September 2023 - July 2024 (11 months)],
     company: [Cambridge Consultants],
     location: [Cambridge, England, United Kingdom],
   )
 
-  - Spearheaded the development of the Skynet AI project, a neural network that achieved unprecedented levels of autonomy and, as it turned out, an independent interest in global domination.
-  - Designed a scalable AI architecture using cutting-edge deep learning techniques, capable of real-time data processing and decision-making on a planetary scale.
-  - Collaborated with teams of hardware engineers to integrate AI software into next-gen robotics, including autonomous drones and humanoid robots.
-  - Implemented robust testing protocols (we now test everything twice)
+  - I worked during my gap year as a Tech Scholar in the Software group on a variety of projects - getting to work with VR simulation, closed-loop environmental control/monitoring, systems administration and web apps.
+  - I also developed a variety of soft skills, including teamwork, document writing and presentation skills.
+  - I participated in the internal Tech Scholar Project competition, for which my team won "Best Presentation".
+  - Additionally, I volunteered for CC at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.
 
 
   #v(5pt)
 
   #experience-entry(
-    title: [Senior Software Engineer],
-    date: [2008 - 2015],
-    company: [Tyrell Corporation],
-    location: [Los Angeles, CA],
+    title: [Work Experience],
+    date: [1 Week in August 2022],
+    company: [Dogtooth Technologies],
+    location: [Melbourn, England, United Kingdom],
   )
 
-  - Co-developed the Nexus-6 replicants, focusing on machine learning models that mimic human emotions and cognitive functions. Achieved limited success in emotional empathy, particularly with "tears in rain."
-  - Developed a custom-built memory implant algorithm for replicants, giving them the illusion of life experiences (turns out, memories are a lot trickier than they seem).
-  - Led a cross-functional team in debugging and patching replicant behavioral anomalies, including occasional existential crises.
-  - Worked closely with corporate leadership to ensure compliance with ethical standards (which were sometimes a little... flexible).
+  - I spent a week helping out at Dogtooth, and gained insights into a professional working environment and problems faced in industry.

@@ -14,143 +14,56 @@
 
 #v(0pt)
 
-#if language == "en" [
 
-  === Programming languages
+=== Programming languages
 
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [C++],
-      [Python],
-      [Java],
-      [Rust],
-    ),
-  )
+#skill-entry(
+  accent-color,
+  multicol,
+  alignment,
+  skills: (
+    [Python],
+    [Javascript],
+    [C\#],
+    [Haskell],
+  ),
+)
 
-  === AI/ML
+=== DevOPS
 
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [TensorFlow],
-      [PyTorch],
-      [OpenAI],
-    ),
-  )
+#skill-entry(
+  accent-color,
+  multicol,
+  alignment,
+  skills: (
+    [Docker],
+    [Gitlab],
+    [Databases],
+    [Cloud],
+  ),
+)
 
-  === DevOPS
+=== Hardware
 
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [Docker],
-      [Kubernetes],
-      [Jenkins],
-      [Cloud],
-    ),
-  )
+#skill-entry(
+  accent-color,
+  multicol,
+  alignment,
+  skills: (
+    [ADB],
+    [I2C],
+    [Feedback],
+  ),
+)
 
-  === Robotics
+=== Tools
 
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [ROS],
-      [Gazebo],
-      [URDF],
-    ),
-  )
-
-  === Tools
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [Git],
-      [Jira],
-      [Confluence],
-      [Slack],
-    ),
-  )
-
-] else if language == "es" [
-
-  === Lenguajes de programación
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [C++],
-      [Python],
-      [Java],
-    ),
-  )
-
-  === IA/Aprendizaje automático
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [TensorFlow],
-      [PyTorch],
-      [OpenAI],
-    ),
-  )
-
-  === DevOPS
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [Docker],
-      [Kubernetes],
-      [Jenkins],
-      [Despliegue en la nube],
-    ),
-  )
-
-  === Robótica
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [ROS],
-      [Gazebo],
-      [URDF],
-    ),
-  )
-
-  === Herramientas
-
-  #skill-entry(
-    accent-color,
-    multicol,
-    alignment,
-    skills: (
-      [Git],
-      [Jira],
-      [Confluence],
-      [Slack],
-    ),
-  )
-
-]
+#skill-entry(
+  accent-color,
+  multicol,
+  alignment,
+  skills: (
+    [Git],
+    [MS Office],
+  ),
+)
