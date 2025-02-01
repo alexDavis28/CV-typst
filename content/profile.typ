@@ -10,4 +10,4 @@
 
 #v(5pt)
 
-I’m a Software Engineer / Computer Science student at The University of Edinburgh. I’m liable to take an interest in almost anything, but I’ve got a particular interest in Python and sysadmin work.
+I’m a Software Engineer / Computer Science student at The University of Edinburgh. I'm always enthusiastic about discovering new areas, but I’ve got a particular interest in Python and sysadmin work.
