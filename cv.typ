@@ -14,7 +14,7 @@
 }
 
 #let left-pane = (
-  "profile",
+  // "profile",
   "experience",
   "education",
 )
