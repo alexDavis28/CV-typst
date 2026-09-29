@@ -20,6 +20,40 @@
   - This has involved familiarising myself with production environments in order to provide ongoing support.
   - As part of outreach for the project, I have run a workshop for students on using Docker
 
+#v(5pt)
+  #experience-entry(
+    title: [Tech Scholar],
+    date: [May 2026 - July 2026 (8 Weeks)],
+    company: [Cambridge Consultants],
+    location: [Cambridge, England, United Kingdom],
+  )
+  - For my second summer placement at CC, I was involved in supporting a variety of projects - mainly extensive EVT testing for consumer products. I was able to utilise my familiarity with Python testing and data science skills.
+  - I also supported a client with their web app development, and was involved in multiple meetings with them to identify problems.
+
+
+#v(5pt)
+  #experience-entry(
+    title: [Secretary],
+    date: [June 2025 - May 2026 (1 Year)],
+    company: [CompSoc - Edinburgh University Technology Society],
+    location: [Edinburgh, Scotland, United Kingdom],
+  )
+  - I was elected to the executive committee of (CompSoc)[https://comp-soc.com/], the largest student tech society in Scotland.
+  - In this role I managed meetings and room bookings for the society.
+  - I presented a challenge at the Adahack hackathon on behalf of CompSoc, and assisted in the technical setup of a week-long hackathon with Huawei
+  - I also spoke at multiple open days
+
+#v(5pt)
+  #experience-entry(
+    title: [Tech Scholar],
+    date: [June 2025 - July 2025 (8 Weeks)],
+    company: [Cambridge Consultants],
+    location: [Cambridge, England, United Kingdom],
+  )
+
+  - Returning for my summer placement, I had further opportunities to develop my skills.
+  - I worked on producing a fast and versatile test script for a large array of sensors, cleaned up motion capture data and improved the reliability of a tech demonstrator.
+
 
 #v(5pt)
 
@@ -37,7 +71,7 @@
   - Additionally, I volunteered for Cambridge Consultants at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.
 
 
-  #v(5pt)
+#v(5pt)
 
   #experience-entry(
     title: [Work Experience],

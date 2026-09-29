@@ -19,7 +19,7 @@
   location: [Edinburgh, Scotland, United Kingdom],
 )
 
-- *Optional Modules:* Introduction to Data Science, Cognitive Science
+- *Grades:* Achieved a 1st overall in both 1st Year and 2nd Year
 - *Extracurriculars:* Member of CompSoc, GEAS(Tabletop Games Society), and The Tardis Project
 
 #v(5pt)
