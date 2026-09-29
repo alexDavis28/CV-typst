@@ -26,10 +26,11 @@
     [Javascript],
     [C\#],
     [Haskell],
+    [Java],
   ),
 )
 
-=== DevOPS
+=== Systems
 
 #skill-entry(
   accent-color,
@@ -39,7 +40,7 @@
     [Docker],
     [Gitlab],
     [Databases],
-    [Cloud],
+    [Sysadmin],
   ),
 )
 
