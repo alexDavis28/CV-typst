@@ -39,7 +39,7 @@
     company: [CompSoc - Edinburgh University Technology Society],
     location: [Edinburgh, Scotland, United Kingdom],
   )
-  - Was elected to the executive committee of (CompSoc)[https://comp-soc.com/], the largest student tech society in Scotland.
+  - Was elected to the executive committee of CompSoc, the largest student tech society in Scotland.
   - Managed meetings and room bookings for the society.
   - Presented a challenge at the Adahack hackathon on behalf of CompSoc, and assisted in the technical setup of a week-long hackathon with Huawei
   - Volunteered at multiple open days
