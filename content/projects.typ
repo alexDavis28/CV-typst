@@ -28,7 +28,7 @@
 
 #project-entry(
   title: [Self Hosting],
-  description: [Variety of self-hosted web apps, including a recipe database and Foundry VTT.]
+  description: [Self-hosted web apps, including a recipe database and Foundry VTT.]
 )
 
 
