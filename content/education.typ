@@ -32,4 +32,4 @@
 )
 
 - *Grades:* Computer Science A\*, Maths: A\*, History: A\*
-- *Extracurriculars*: Helped run the Tabletop Games Society
+- *Extracurriculars*: Ran the Tabletop Games Society

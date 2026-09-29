@@ -27,9 +27,9 @@
     company: [Cambridge Consultants],
     location: [Cambridge, England, United Kingdom],
   )
-  - Was involved in supporting a variety of projects - mainly extensive EVT testing for consumer products.
-  - Was able to utilise my familiarity with Python testing and data science skills.
-  - Supported a client with their web app development, and was involved in meetings with them to identify problems.
+  - Supported a variety of projects - including extensive EVT testing for consumer products.
+  - Utilised my familiarity with Python testing and data science skills.
+  - Collaborated with a client on their web app development, and was involved in meetings with them to identify problems.
 
 
 #v(5pt)
@@ -65,7 +65,7 @@
     location: [Cambridge, England, United Kingdom],
   )
 
-  - Worked during my gap year as a Tech Scholar in the Software group on a number of projects - getting to work with VR simulation, closed-loop environmental control/monitoring, systems administration and web apps.
+  - Spent my gap year as a Tech Scholar in the Software group on a number of projects - VR simulation, closed-loop environmental control/monitoring, systems administration and web apps.
   - Developed soft skills, including teamwork, document writing and presentation skills.
   - Took part in the internal Tech Scholar Project competition, for which my project team won "Best Presentation".
   - Volunteered for Cambridge Consultants at the Hills Road Careers Fair and was able to speak to students about taking a gap year in industry.
